@@ -7,9 +7,8 @@ Independent vulnerability disclosures and technical security research involving 
 | Advisory ID | Vendor | Vulnerability Type | Status | Year |
 |-------------|--------|--------------------|--------|------|
 | CVE-2026-32612 | Statamic CMS | Stored Cross-Site Scripting (XSS) | Disclosed – Patched | 2026 |
-| Pending | October CMS | Security Vulnerability | Reported – Awaiting Vendor Response | 2026 |
 | Pending | OWASP Nettacker | Security Vulnerability | Report Accepted – Under Review | 2026 |
-| Pending | Drupal CMS | Security Vulnerability | Reported - Awaiting Vendor Response | 2026 |
+| Pending | Drupal CMS | Security Vulnerability | Reported - Duplicate Issue - Awaiting Vendor Response | 2026 |
 | Pending | Joomla CMS | Security Vulnerability | Patch Pending | 2026 |
 | Pending | OpenPGP.js | Security Vulnerability | Reported - Awaiting Vendor Response | 2026 |
 | Pending | Piranha CMS | Security Vulnerability | Reported - Awaiting Vendor Response | 2026 |
