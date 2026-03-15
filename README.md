@@ -14,7 +14,7 @@ Independent vulnerability disclosures and technical security research involving 
 | Pending | OpenPGP.js | Security Vulnerability | Reported - Awaiting Vendor Response | 2026 |
 | Pending | Piranha CMS | Security Vulnerability | Reported - Awaiting Vendor Response | 2026 |
 | Pending | LangChain Core | Security Vulnerability | Reported - Awaiting Vendor Response | 2026 |
-| Pending | Terraform Provider SRA | Security Vulnerability | Reported - Awaiting Vendor Response | 2026 |
+| Pending | BeyondTrust - Terraform Provider SRA | Security Vulnerability | Reported - Awaiting Vendor Response | 2026 |
 | Pending | Facebook (ZSTD) | Security Vulnerability | Reported - Awaiting Vendor Response | 2026 |
 | Pending | Strapi | Security Vulnerability | Reported - Awaiting Vendor Response | 2026 |
 
