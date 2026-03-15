@@ -10,7 +10,17 @@ Details remain limited for advisories under active disclosure until vendor remed
 
 | Advisory ID | Vendor | Vulnerability Type | Status | Year |
 |-------------|--------|--------------------|--------|------|
-| Pending CVE | Joomla | Stored XSS | Confirmed – Patch Pending | 2026 |
+| CVE-2026-32612 | Statamic CMS | Stored Cross-Site Scripting (XSS) | Disclosed – Patched | 2026 |
+| Pending | October CMS | Security Vulnerability | Reported – Awaiting Vendor Response | 2026 |
+| Pending | OWASP Nettacker | Security Vulnerability | Report Accepted – Under Review | 2026 |
+| Pending | Drupal CMS | Security Vulnerability | Reported - Awaiting Vendor Response | 2026 |
+| Pending | Joomla CMS | Security Vulnerability | Patch Pending | 2026 |
+| Pending | OpenPGP.js | Security Vulnerability | Reported - Awaiting Vendor Response | 2026 |
+| Pending | Piranha CMS | Security Vulnerability | Reported - Awaiting Vendor Response | 2026 |
+| Pending | LangChain Core | Security Vulnerability | Reported - Awaiting Vendor Response | 2026 |
+| Pending | Terraform Provider SRA | Security Vulnerability | Reported - Awaiting Vendor Response | 2026 |
+| Pending | ZSTD | Security Vulnerability | Reported - Awaiting Vendor Response | 2026 |
+| Pending | Strapi | Security Vulnerability | Reported - Awaiting Vendor Response | 2026 |
 
 ---
 
