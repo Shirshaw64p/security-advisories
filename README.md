@@ -16,7 +16,7 @@ Independent vulnerability disclosures and technical security research involving 
 | Pending | BeyondTrust - Terraform Provider SRA | Security Vulnerability | Reported - Awaiting Vendor Response | 2026 |
 | Pending | Facebook (ZSTD) | Security Vulnerability | Reported - Awaiting Vendor Response | 2026 |
 | Pending | Strapi | Security Vulnerability | Reported - Awaiting Vendor Response | 2026 |
-| Pending | CKAN | Security Vulnerability | Patch Pending | 2026 |
+| No ID Issued - Vulnerability in unreleased version | CKAN | Security Vulnerability | Patch Pending | 2026 |
 
 ---
 
