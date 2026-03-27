@@ -19,7 +19,7 @@ Independent vulnerability disclosures and technical security research involving 
 | No ID Issued - Vulnerability in unreleased version | CKAN | Security Vulnerability | Patch Pending - Public PR Credit confirmed | 2026 |
 | No ID Issued - Bug Fix | SFTPGo | Security Vulnerability | Patched - Public PR Credit confirmed | 2026 |
 | Pending | Gogs | Security Vulnerability | Reported - Awaiting Vendor Response | 2026 |
-
+| Pending | Vite | Security Vulnerability | Reported - Awaiting Vendor Response | 2026 |
 
 ---
 
