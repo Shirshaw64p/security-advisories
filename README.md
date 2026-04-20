@@ -13,7 +13,6 @@ Independent vulnerability disclosures and technical security research involving 
 | Pending | OWASP Nettacker | Security Vulnerability | Patch Pending | 2026 |
 | Pending | Piranha CMS | Security Vulnerability | Patch Pending | 2026 |
 | Pending | OpenPGP.js | Security Vulnerability | Reported - Awaiting Vendor Response | 2026 |
-| Pending | Piranha CMS | Security Vulnerability | Patch Pending | 2026 |
 | Pending | BeyondTrust - Terraform Provider SRA | Security Vulnerability | Reported - Awaiting Vendor Response | 2026 |
 | Pending | Facebook (ZSTD) | Security Vulnerability | Reported - Awaiting Vendor Response | 2026 |
 | Pending | Strapi | Security Vulnerability | Reported - Awaiting Vendor Response | 2026 |
