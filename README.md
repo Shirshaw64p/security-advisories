@@ -7,19 +7,18 @@ Independent vulnerability disclosures and technical security research involving 
 | Advisory ID | Vendor | Vulnerability Type | Status | Year |
 |-------------|--------|--------------------|--------|------|
 | CVE-2026-32612 | Statamic CMS | Stored Cross-Site Scripting (XSS) | Disclosed – Patched | 2026 |
-| Pending | OWASP Nettacker | Security Vulnerability | Report Accepted – Under Review | 2026 |
-| Pending | Drupal CMS | Security Vulnerability | Patch Pending | 2026 |
+| CVE-2026-41255 | CKAN | Cross Site Request Forgery (CSRF) | Disclosure Pending | 2026 |
+| CVE-2026-6367 | Drupal CMS | Security Vulnerability | Patch Pending | 2026 |
 | CVE-2026-21631 | Joomla CMS | Stored Cross-Site Scripting (XSS) | Disclosed - Patched | 2026 |
+| Pending | OWASP Nettacker | Security Vulnerability | Patch Pending | 2026 |
+| Pending | Piranha CMS | Security Vulnerability | Patch Pending | 2026 |
 | Pending | OpenPGP.js | Security Vulnerability | Reported - Awaiting Vendor Response | 2026 |
 | Pending | Piranha CMS | Security Vulnerability | Patch Pending | 2026 |
 | Pending | LangChain Core | Security Vulnerability | Reported - Awaiting Vendor Response | 2026 |
 | Pending | BeyondTrust - Terraform Provider SRA | Security Vulnerability | Reported - Awaiting Vendor Response | 2026 |
 | Pending | Facebook (ZSTD) | Security Vulnerability | Reported - Awaiting Vendor Response | 2026 |
 | Pending | Strapi | Security Vulnerability | Reported - Awaiting Vendor Response | 2026 |
-| No ID Issued - Vulnerability in unreleased version | CKAN | Security Vulnerability | Patch Pending - Public PR Credit confirmed (https://github.com/ckan/ckan/pull/9297) | 2026 |
 | No ID Issued - Bug Fix | SFTPGo | Security Vulnerability | Patched - Public PR Credit confirmed | 2026 |
-| Pending | Gogs | Security Vulnerability | Reported - Awaiting Vendor Response | 2026 |
-| Pending | Vite | Security Vulnerability | Reported - Awaiting Vendor Response | 2026 |
 
 ---
 
